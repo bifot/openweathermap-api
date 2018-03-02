@@ -1,0 +1,32 @@
+{
+  "name": "openweathermap-api",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "mocha"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/bifot/openweathermap-api.git"
+  },
+  "keywords": [
+    "weather",
+    "openweather",
+    "api"
+  ],
+  "author": "Mikhail Semin",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/bifot/openweathermap-api/issues"
+  },
+  "homepage": "https://github.com/bifot/openweathermap-api#readme",
+  "dependencies": {
+    "request": "^2.83.0",
+    "request-promise": "^4.2.2"
+  },
+  "devDependencies": {
+    "chai": "^4.1.2",
+    "mocha": "^5.0.1"
+  }
+}
