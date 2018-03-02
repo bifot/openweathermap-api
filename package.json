@@ -1,7 +1,7 @@
 {
-  "name": "openweathermap-api",
-  "version": "1.0.0",
-  "description": "",
+  "name": "@bifot/openweathermap-api",
+  "version": "1.0.1",
+  "description": "API for openweathermap.com",
   "main": "index.js",
   "scripts": {
     "test": "mocha"

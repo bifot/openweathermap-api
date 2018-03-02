@@ -5,7 +5,7 @@ API for [openweathermap](https://openweathermap.com).
 ## Install
 
 ```sh
-$ npm i openweathermap-api -S
+$ npm i @bifot/openweathermap-api -S
 ```
 
 ## Tests
