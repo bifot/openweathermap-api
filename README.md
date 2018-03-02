@@ -1,6 +1,6 @@
 # Open Weather Map
 
-API for openweathermap.com
+API for [openweathermap](https://openweathermap.com).
 
 ## Install
 
